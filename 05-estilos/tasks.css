@@ -1,0 +1,13 @@
+.card{
+    background-color: rgb(39, 39, 105);
+    color: red;
+    padding: 50px;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-black{
+    background-color: black;
+}

@@ -1,0 +1,1 @@
+los props types, pueden agregar unsando la libreria de npm props types o configurandolos por defecto en la funcion que recibe los prosp
